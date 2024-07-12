@@ -7,7 +7,7 @@ global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
 global.email = "masterhelper@gmail.com";
 global.location = "Asia/Colombo";
-global.mongodb = process.env.MONGODB_URI || "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority";
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://mihirukdilshan1:qTnAIbaBjri0GQvD@cluster0.djsffwt.mongodb.net/";
 global.allowJids = process.env.ALLOW_JID || "94720797915@s.whatsapp.net";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
